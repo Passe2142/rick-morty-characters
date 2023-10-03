@@ -22,7 +22,7 @@ Follow these instructions to get the project up and running on your local machin
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/Passe2142/rick-morty-characters
    cd your-repo
    
 ## Install dependencies:
