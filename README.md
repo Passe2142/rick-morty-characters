@@ -1,4 +1,4 @@
-# Rick and Morty Character Search App with Firebase Authentication
+# Rick and Morty Character Search SPA with Firebase Authentication
 
 This is a React application that allows users to search for Rick and Morty characters using the [Rick and Morty API](https://rickandmortyapi.com/). It also includes Firebase authentication for user signup and login.
 
